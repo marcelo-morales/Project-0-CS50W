@@ -1,0 +1,16 @@
+.btn {
+    background-color: springgreen;
+    margin-right:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#homepage_title{
+    font: Courier New;
+    color: slateblue;
+}
+
+#background_image {
+    background-image: url("https://www.iucn.org/news/world-commission-environmental-law/201803/peru-launch-first-environmental-court-april-2018");
+    background-color: salmon;
+}
